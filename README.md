@@ -1,22 +1,24 @@
 # SCM-Practice-Trevino
-Software Configuration Management (SCM) is a process for tracking and controlling changes in software development projects. It helps teams manage code versions, track modifications, and coordinate collaborative work across multiple developers.
+Source Control Management (SCM) is the process of tracking and managing changes to code in software development. It helps teams maintain version history, collaborate effectively, and prevent conflicts when multiple developers work on the same project.
 
-Key aspects of SCM:
+Key Aspects of SCM:
 Version control – Tracks changes to code files over time
 
-Change management – Controls how modifications are reviewed and implemented
+Branching and merging – Allows developers to work independently and integrate changes
 
-Build management – Maintains consistent software assembly processes
+Commit history – Maintains a record of modifications for accountability and rollback
 
-Release management – Coordinates software deployments
+Collaboration – Enables multiple developers to contribute without overwriting each other's work
 
-GitHub's Role in SCM:
-Repository hosting – Stores code and tracks changes
+Conflict resolution – Helps manage and resolve merge conflicts when changes overlap
 
-Pull requests – Facilitates code review and change management
+GitHub’s Role in SCM:
+Repository hosting – Stores code and tracks changes with Git
 
-Issue tracking – Monitors bugs and feature requests
+Branching and pull requests – Supports collaborative development and code reviews
 
-Actions – Automates workflows and supports continuous integration
+Commit tracking – Maintains a clear history of changes for accountability
 
-Project boards – Organizes tasks and visualizes workflows
+Issue tracking – Manages bug reports, feature requests, and project tasks
+
+GitHub Actions – Automates workflows for testing, building, and deployment
