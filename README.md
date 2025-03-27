@@ -1,8 +1,7 @@
 # SCM-Practice-Trevino
 Source Control Management (SCM) is the process of tracking and managing changes to code in software development. It helps teams maintain version history, collaborate effectively, and prevent conflicts when multiple developers work on the same project.
 
-Key Aspects of SCM:
-Version control – Tracks changes to code files over time
+Key Aspects of SCM: Version control – Tracks changes to code files over time
 
 Branching and merging – Allows developers to work independently and integrate changes
 
@@ -12,8 +11,7 @@ Collaboration – Enables multiple developers to contribute without overwriting 
 
 Conflict resolution – Helps manage and resolve merge conflicts when changes overlap
 
-GitHub’s Role in SCM:
-Repository hosting – Stores code and tracks changes with Git
+GitHub’s Role in SCM: Repository hosting – Stores code and tracks changes with Git
 
 Branching and pull requests – Supports collaborative development and code reviews
 
